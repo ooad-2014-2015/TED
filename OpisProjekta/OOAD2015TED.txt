@@ -1,0 +1,135 @@
+Univerzitet u Sarajevu
+Elektrotehnički fakultet
+Objektno orijentirana analiza i dizajn
+
+OOAD Projekt
+"Informacioni sistem za ugostiteljski objekat"
+
+Prof. dr. sc. Dženana Đonko, dipl. ing. el.
+Emir Cogo, dipl. ing. el.
+
+TED tim
+T imur Džirlo
+E nsar Sarajčić
+D ino Dizdarević
+
+
+Opis projekta
+
+Tema našeg projekta je sistem za kafić ili neki sličan ugostiteljski objekat.
+Također će se moći koristiti za određene firme koje se bave prodajom.
+Sistem će omogućavati veću kontrolu vlasnika nad radnicima i prodajom, a 
+radnicima će omogućavati olakšan i brži rad sa narudžbama. 
+Sistem će podržavati automatsko printanje računa, vođenje evidencije o računima
+za pojedine stolove, čiji se broj i raspored može prilagoditi objektu unutar
+aplikacije. Sistem će omogućavati vođenje evidencije o fiskalnoj kasi, dnevnom
+prometu i stanja u skladištu(sistem obavještava o količini, ukoliko su zalihe pri kraju).
+Sistem bi trebao podržati i digitalizaciju knjige žalbi.
+
+
+Use cases
+
+*Pokretanje sistema
+Glavni akter - vlasnik
+Interesi - pokretanje sistema
+Preduslovi - pravilni podaci za logovanje vlasnika
+Rezultat - sistem je spreman za spreman za logovanje osoblja
+Osnovni tok:
+- Vlasnik se loguje i pokreće sistem, ukoliko su podaci ispravni
+Alternativni tok:
+- Vlasnik nije unio pravilne podatke, omogućava se ponovni unos
+- Nakon 5 promašaja, sistem se blokira i serviser ga može odblokirati
+
+
+*Narudžba
+Glavni akter - radnik
+Interesi - radnik želi isprintati račun
+Preduslovi - radnik je unio ispravnu šifru i sistem je pokrenut od strane vlasnika
+Rezultat - Isprintan račun, registrovana narudžba 
+Osnovni tok:
+- Mušterija vrši narudžbu kod osoblja
+- Radnik se loguje u sistem
+- Ukoliko je uspješno logovan, unosi narudžbu za odgovarajući stol
+- Ukoliko objekata narudžbe ima na stanju, račun se printa i narudžba se registruje
+Alternativni tok:
+- Radnik nije uspješno logovan(pogrešna smjena, šifra...)
+- Sistem nije pokrenut od strane vlasnika
+- Objekata narudžbe nema na stanju, daje se obavijest
+- Pogrešno otkucan račun, mogućnost stagniranja računa
+
+
+*Prijava u smjeni
+Glavni akter - radnik
+Interesi - prijava osoblja
+Preduslovi - radnik je u ispravnoj smjeni i uneseni su ispravni podaci
+Rezultat - sistem je spreman za rad
+Osnovni tok:
+- Radnik se loguje
+- Ukoliko je u ispravnoj smjeni i unio je svoj username i šifru, sistem se otključava
+(zahtjeva šifru, ili karticu pri svakoj narudžbi)
+Alternativni tok:
+- Uneseni su pogrešni podaci, onemogućava se pristup
+- Pogrešna smjena, omogućava se pristup uz obavještavanje vlasnika
+
+*Odjava smjene
+Glavni akteri - radnik ili vlasnik
+Interesi - završavanje smjene i obračun
+Preduslovi - završeno radno vrijeme ili vlasnikovo dopuštenje preko sistema
+Rezultat - početak sljedeće smjene, ili kraj radnog vremena i obračunavanje dnevnog prometa
+Osnovni tok:
+- Radnik ili vlasnik ukucavaju svoju šifru i pokreću odjavu smjene
+- Ukoliko su ispunjeni preduslovi, smjena se završava i obračunava se i evidentira dnevni promet 
+Alternativni tok:
+- Uneseni su pogrešni podaci ili smjena još nije završena, onemogućava se završavanje smjene,
+osim sa posebnim dopuštenjem vlasnika preko sistema
+
+*Pravljenje razmještaja stolova
+Glavni akter - vlasnik
+Interesi - grafički prikaz rasporeda stolova u aplikaciji
+Preduslovi - ispravni podaci za vlasnika
+Rezultat - uređen raspored koji se spašava za buduću upotrebu osoblja
+Osnovni tok:
+- Vlasnik se loguje u sistem sa svojim podacima
+- Ukoliko su podaci ispravni, omogućava mu se opcija za razmještanje stolova
+- Pomoću jednostavnog interface-a drag and drop metodom, vlasnik razmješta stolove po želji
+- Raspored se spašava u sistem za upotrebu osoblja
+Alternativni tok:
+- Uneseni su pogrešni podaci, vlasnik se nije ulogovao u sistem, pa nema pristup razmještanju stolova
+
+*Unos artikala
+Glavni akter - vlasnik
+Interesi - unos artikala za upotrebu osoblja
+Preduslovi - ispravni podaci za vlasnika
+Rezultat - uneseni artikli u bazu za upotrebu osoblja
+Osnovni tok:
+- Vlasnik se loguje u sistem sa svojim podacima
+- Ukoliko su podaci ispravni, omogućava se unos novih artikala i izmjena i brisanje postojećih ili promjena količine na stanju
+- Vlasnik na kraju spašava izmjene u bazu
+Alternativni tok:
+- Uneseni su pogrešni podaci, pristup je onemogućen
+
+
+*Promjena stanja artikala
+Glavni akter - radnik
+Interesi - ažuriranje količine artikala
+Preduslovi - ispravni podaci za radnika
+Rezultat - u sistem su unesene nove količine artikala
+Osnovni tok:
+- Radnik se loguje u sistem sa svojim podacima
+- Ukoliko su podaci ispravni, omogućava se unos narudžbe, čime se povećava količina na artikala na stanju
+- Radnik spašava izmjene u bazu
+Alternativni tok:
+- Uneseni su pogrešni podaci, pristup je onemogućen
+
+
+*Unos novog osoblja
+Glavni akter - vlasnik
+Interesi - kreiranje radnikovog računa za pristup sistemu
+Preduslovi - ispravni podaci vlasnika
+Rezultat - korisnički račun za radnika
+Osnovni tok:
+- Vlasnik se loguje u sistem sa svojim podacima
+- Ukoliko su podaci ispravni, omogućava se unos podataka za novog radnika
+- Kreira se novi račun za radnika i spašava u bazu
+Alternativni tok:
+- Uneseni su pogrešni podaci, pristup je onemogućen
