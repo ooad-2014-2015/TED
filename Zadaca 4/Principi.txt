@@ -1,0 +1,15 @@
+Princip pojedinacne odgoornosti – sa dijagrama je jasno uocljivo da je ovaj princip zadovoljen jer se klase brinu po pojedinacnom stvarima (samo o svojim atributima). To mozemo vidjeti na primjeru klase Artikal gdje se metode navedene klase  brinu samo o argumentima pripadajuce klase.
+
+
+Otvoreno zatvoren princip – ovaj princip je primjenjen kreiranjem klase Sistem gdje je moguca nadogranja (dodavanjem dodatnih atributa za detaljniji opis sistema) a da pri tome ne dolazi do modifikacije klase Korisnik.
+
+Liskov princip zamjene -  ovim dizajnom smo vodili racuna da sve klase koje su vezi generalizacije sa nekom drugom klasom ocuvaju osobinu korektnog naslijedivanja. To možemo vidjeti na primjeru klase Korisnik. Jasno je da se klase Vlasnik i Zaposlenik  mogu zamijeniti osnovnim tipom iz kojeg su naslijedene zbog ocuvanja jednakosti atributa i metoda koje su svim klasama koje ucestvuju u toj vezi.
+
+Princip inverzije ovisnosti – s obzirom da su se interfejsi i apstraktne klase koristile, ovim smo zadovoljili princip inverzije ovisnost. Na ovaj nacin smo postigli da buduce promjene u sistemu budu jednostavnije i trebaju se izvrsiti na manje mjesta cime postizemo smanjenje krutosti koda.
+
+
+Princip izoliranja interfejsa – ne postoji interfejs ili apstraktna klasa sa velikim brojem metoda. Na ovaj nacin smo postigli da prilikom nasljedjivanja, klase ne nasljedjuju i metode koje joj nisu potrebne vec su razdvojene po funkcionalnostima koje trebaju da izvrsavaju.	
+
+	
+
+	
