@@ -1,0 +1,28 @@
+﻿<Window x:Class="Projekat.FormDodajKonobara"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window2" Height="393" Width="300">
+    <Grid Margin="0,0,0,-20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="53*"/>
+            <ColumnDefinition Width="93*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Ime" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="56,10,0,0" FontSize="16" FontFamily="Segoe Print"/>
+        <Label Content="Prezime" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="21,53,0,0" FontSize="16" FontFamily="Segoe Print"/>
+        <Label Content="Username" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5,96,0,0" FontSize="16" FontFamily="Segoe Print"/>
+        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,139,0,0" FontSize="16" FontFamily="Segoe Print"/>
+        <Label Content="JMBG" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="37,182,0,0" FontSize="16" FontFamily="Segoe Print"/>
+        <Label Content="Broj licne" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="9,225,0,0" FontSize="16" FontFamily="Segoe Print"/>
+        <Label Content="Dnevnica" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="13,268,0,0" FontSize="16" FontFamily="Segoe Print"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.Column="1" Margin="10,15,0,0" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.Column="1" Margin="10,58,0,0" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.Column="1" Margin="10,101,0,0" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.Column="1" Margin="10,144,0,0" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.Column="1" Margin="10,187,0,0" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.Column="1" Margin="10,230,0,0" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.Column="1" Margin="10,273,0,0" FontSize="16"/>
+        <Button Content="Dodaj" Grid.Column="1" HorizontalAlignment="Left" Margin="10,324,0,0" VerticalAlignment="Top" Width="75" FontSize="16"/>
+        <Button Content="Odustani" Grid.Column="1" HorizontalAlignment="Left" Margin="101,324,0,0" VerticalAlignment="Top" Width="75" FontSize="16"/>
+
+    </Grid>
+</Window>

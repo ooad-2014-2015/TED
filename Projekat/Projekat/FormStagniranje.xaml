@@ -1,0 +1,11 @@
+﻿<Window x:Class="Projekat.FormStagniranje"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="194" Width="236">
+    <Grid>
+        <Label Content="Broja racuna" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,23,0,0" FontSize="16" FontFamily="Segoe Print"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Margin="57,66,0,0" FontSize="16"/>
+        <Button Content="Stagniraj" HorizontalAlignment="Left" Margin="131,111,0,0" VerticalAlignment="Top" Width="75" FontSize="16"/>
+
+    </Grid>
+</Window>

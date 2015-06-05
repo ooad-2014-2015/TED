@@ -1,0 +1,126 @@
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\bin\Debug\Projekat.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\bin\Debug\Projekat.exe
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\bin\Debug\Projekat.pdb
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\obj\Debug\MainWindow.baml
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\obj\Debug\App.g.cs
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\obj\Debug\Projekat.g.resources
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\obj\Debug\Projekat.exe
+c:\users\ali\documents\visual studio 2012\Projects\Projekat\Projekat\obj\Debug\Projekat.pdb
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\bin\Debug\Projekat.exe.config
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.exe
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\App.g.cs
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.g.resources
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\bin\Debug\Projekat.exe
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\bin\Debug\Projekat.pdb
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.pdb
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\MainWindow.baml
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Interop.MSForms.dll
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.csproj.ResolveComReference.cache
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\FormaVlasnik.baml
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\FormaZaposlenik.baml
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\FormaVlasnik.g.cs
+E:\DOCUMENTS\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\FormaZaposlenik.g.cs
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.csproj.ResolveComReference.cache
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\FormaVlasnik.baml
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\FormaZaposlenik.baml
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\FormaVlasnik.g.cs
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\FormaZaposlenik.g.cs
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\App.g.cs
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\MainWindow.baml
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.g.resources
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\Dizzda\Documents\Visual Studio 2013\Projects\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.csproj.ResolveComReference.cache
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\FormaVlasnik.baml
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\FormaZaposlenik.baml
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\FormStagniranje.baml
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\FormDodajKonobara.baml
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\FormaVlasnik.g.cs
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\FormaZaposlenik.g.cs
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\FormStagniranje.g.cs
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\FormDodajKonobara.g.cs
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\App.g.cs
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\MainWindow.baml
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.g.resources
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\Ali\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\Dizzda\Projekat\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\Projekat.csproj.ResolveComReference.cache
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\FormaVlasnik.baml
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\FormaZaposlenik.baml
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\FormStagniranje.baml
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\FormDodajKonobara.baml
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\FormaVlasnik.g.cs
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\FormaZaposlenik.g.cs
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\FormStagniranje.g.cs
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\FormDodajKonobara.g.cs
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\App.g.cs
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+C:\Users\Dizzda\Projekat\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Dizzda\Projekat\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\MainWindow.baml
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\Projekat.g.resources
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\Dizzda\Projekat\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\Dizzda\OOAD\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\Projekat.csproj.ResolveComReference.cache
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\FormaVlasnik.baml
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\FormStagniranje.baml
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\FormDodajKonobara.baml
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\FormaVlasnik.g.cs
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\FormaZaposlenik.g.cs
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\FormStagniranje.g.cs
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\FormDodajKonobara.g.cs
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\App.g.cs
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+C:\Users\Dizzda\OOAD\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Dizzda\OOAD\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\MainWindow.baml
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\FormaZaposlenik.baml
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\Projekat.g.resources
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\Dizzda\OOAD\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache

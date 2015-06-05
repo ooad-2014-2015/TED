@@ -1,0 +1,53 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:Projekat" x:Name="zaposlenik" mc:Ignorable="d" x:Class="Projekat.FormaZaposlenik"
+        Title="Window2" Height="497" Width="968">
+    <Window.DataContext>
+        <local:ZaposlenikViewModel2/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Menu HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="960">
+            <TabItem Content="Stagniraj racun" Height="20" Width="96" HorizontalAlignment="Right" Header="Stagniraj racun"/>
+            <TabItem Content="Azuriraj skladiste" Height="20" Width="107" Header="Azuriraj skladiste"/>
+            <Label Content="Username: Dizda13" Height="30" Width="190" HorizontalAlignment="Right"/>
+        </Menu>
+        <Grid HorizontalAlignment="Left" Height="379" Margin="36,65,0,0" VerticalAlignment="Top" Width="206" Background="#FFC78C8C">
+            <Button Content="Kafa" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-0.46,-3.795" Height="40" Click="Button_Click" Command="{Binding Path=Kafa}"/>
+            <Button Content="Sok" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-0.46,-3.795" Height="40" Click="Button_Click" Command="{Binding Path=Sok}"/>
+            <Button Content="Kolac" Margin="106,10,10,0" RenderTransformOrigin="-0.46,-3.795" Height="40" VerticalAlignment="Top" Click="Button_Click" Command="{Binding Path=Kolac}"/>
+            <Button Content="Viski" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-0.46,-3.795" Height="40" Click="Button_Click" Command="{Binding Path=Viski}"/>
+            <Button Content="Nes" Margin="106,55,10,0" RenderTransformOrigin="-0.46,-3.795" Height="40" VerticalAlignment="Top" Click="Button_Click" Command="{Binding Path=Nes}"/>
+            <Button Content="Caj" HorizontalAlignment="Left" Margin="10,145,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-0.46,-3.795" Height="40" Click="Button_Click" Command="{Binding Path=Caj}"/>
+            <Button Content="Topla Cokolada" Margin="106,100,10,0" RenderTransformOrigin="-0.46,-3.795" Height="40" VerticalAlignment="Top" Click="Button_Click" Command="{Binding Path=Topla_Cokolada}"/>
+            <Button Content="Kisela" HorizontalAlignment="Left" Margin="10,190,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-0.46,-3.795" Height="40" Click="Button_Click" Command="{Binding Path=Kisela}"/>
+            <Button Content="Surutka" Margin="106,145,10,0" RenderTransformOrigin="-0.46,-3.795" Height="40" VerticalAlignment="Top" Click="Button_Click" Command="{Binding Path=Surutka}"/>
+        </Grid>
+        <Grid x:Name="grid1" HorizontalAlignment="Left" Height="311" Margin="277,65,0,0" VerticalAlignment="Top" Width="206" Background="#FF9C6161">
+            <Button x:Name="_1" Content="0" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-0.46,-3.795" Height="40" Visibility="Hidden"/>
+            <Button x:Name="_2" Content="0" Margin="105,10,11,0" RenderTransformOrigin="-0.46,-3.795" Height="40" VerticalAlignment="Top" Visibility="Hidden"/>
+            <Button x:Name="_3" Content="0" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-0.46,-3.795" Height="40" Visibility="Hidden"/>
+            <Button x:Name="_4" Content="0" Margin="105,55,11,0" RenderTransformOrigin="-0.46,-3.795" Height="40" VerticalAlignment="Top" Visibility="Hidden"/>
+            <Button x:Name="_5" Content="0" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-0.46,-3.795" Height="40" Visibility="Hidden"/>
+            <Button x:Name="_6" Content="0" Margin="105,100,11,0" RenderTransformOrigin="-0.46,-3.795" Height="40" VerticalAlignment="Top" Visibility="Hidden"/>
+            <Button x:Name="_7" Content="0" HorizontalAlignment="Left" Margin="10,145,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-0.46,-3.795" Height="40" Visibility="Hidden"/>
+            <Button x:Name="_8" Content="0" Margin="105,145,11,0" RenderTransformOrigin="-0.46,-3.795" Height="40" VerticalAlignment="Top" Visibility="Hidden"/>
+            <Button x:Name="_9" Content="0" HorizontalAlignment="Left" Margin="10,190,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-0.46,-3.795" Height="40" Visibility="Hidden"/>
+            <Button x:Name="_10" Content="0" Margin="105,190,11,0" RenderTransformOrigin="-0.46,-3.795" Height="40" VerticalAlignment="Top" Visibility="Hidden"/>
+        </Grid>
+        <Label Content="{Binding Path= Ukupno}" HorizontalAlignment="Left" Height="51" Margin="375,406,0,0" VerticalAlignment="Top" Width="150" FontFamily="Segoe Print" FontWeight="Bold" FontSize="16"/>
+        <Button Content="Printaj" HorizontalAlignment="Left" Margin="277,406,0,0" VerticalAlignment="Top" Width="93" Height="38"  Click="Button_Click_1" Command="{Binding Path = Naplati}">
+            <Button.DataContext>
+                <local:ZaposlenikViewModel2/>
+            </Button.DataContext>
+        </Button>
+        <Label Content="MENI" HorizontalAlignment="Left" Height="35" Margin="36,30,0,0" VerticalAlignment="Top" Width="116" FontFamily="Segoe Print" FontWeight="Bold" FontSize="16"/>
+        <Grid HorizontalAlignment="Left" Height="379" Margin="547,65,0,0" VerticalAlignment="Top" Width="403" Background="#FF974949"/>
+        <Label Content="Racun" HorizontalAlignment="Left" Height="35" Margin="277,30,0,0" VerticalAlignment="Top" Width="116" FontFamily="Segoe Print" FontWeight="Bold" FontSize="16"/>
+        <Label Content="Raspored stolova" HorizontalAlignment="Left" Height="35" Margin="547,25,0,0" VerticalAlignment="Top" Width="159" FontFamily="Segoe Print" FontWeight="Bold" FontSize="16"/>
+
+    </Grid>
+</Window>
