@@ -1,0 +1,12 @@
+c:\users\dizzda\documents\visual studio 2013\Projects\animacije\animacije\bin\Debug\animacije.exe.config
+c:\users\dizzda\documents\visual studio 2013\Projects\animacije\animacije\bin\Debug\animacije.exe
+c:\users\dizzda\documents\visual studio 2013\Projects\animacije\animacije\bin\Debug\animacije.pdb
+c:\users\dizzda\documents\visual studio 2013\Projects\animacije\animacije\obj\Debug\animacije.csprojResolveAssemblyReference.cache
+c:\users\dizzda\documents\visual studio 2013\Projects\animacije\animacije\obj\Debug\animacije.Form1.resources
+c:\users\dizzda\documents\visual studio 2013\Projects\animacije\animacije\obj\Debug\animacije.Properties.Resources.resources
+c:\users\dizzda\documents\visual studio 2013\Projects\animacije\animacije\obj\Debug\animacije.csproj.GenerateResource.Cache
+c:\users\dizzda\documents\visual studio 2013\Projects\animacije\animacije\obj\Debug\animacije.exe
+c:\users\dizzda\documents\visual studio 2013\Projects\animacije\animacije\obj\Debug\animacije.pdb
+E:\DOCUMENTS\Git TED\TED\Igrica\animacije\bin\Debug\animacije.exe.config
+E:\DOCUMENTS\Git TED\TED\Igrica\animacije\obj\Debug\animacije.exe
+E:\DOCUMENTS\Git TED\TED\Igrica\animacije\obj\Debug\animacije.pdb
